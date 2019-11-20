@@ -9,7 +9,7 @@ Attribute 宏1.VB_ProcData.VB_Invoke_Func = " \n14"
     Dim k
     Dim p
     Dim k_end
-'k复原源列开始行
+'k复制源列开始行
     k = 2
 'k_end复制源列终行
     k_end = 10
